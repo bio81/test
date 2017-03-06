@@ -1,5 +1,7 @@
 body {
 	background:red;
+	width:970;
+	margin: 0 auto;
 }
 h1 {
 	font-size:40;
