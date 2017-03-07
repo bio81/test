@@ -1,10 +1,10 @@
 body {
-	background:red;
+	background:white;
 	width:970;
 	margin: 0 auto;
 }
 h1 {
-	font-size:40;
+	font-size:80 px
 }
 
 p {
